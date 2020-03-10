@@ -35,7 +35,7 @@
     "lodash": "4.17.4",
     "passport": "0.3.2",
     "passport-jwt": "2.2.1",
-    "mysql": "2.10.2",
+    "mysql": "2.18.1",
     "restify": "4.3.0",
     "shortid": "2.2.8",
     "yamljs": "0.2.9"
